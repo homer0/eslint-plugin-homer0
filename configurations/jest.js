@@ -3,9 +3,9 @@ module.exports = {
     jest: true,
   },
   extends: [
-    './defaults.js',
-    './rules/jest.js',
-  ],
+    './base.js',
+    '../rules/jest.js',
+  ].map(require.resolve),
   globals: {
     spyOn: true,
   },
