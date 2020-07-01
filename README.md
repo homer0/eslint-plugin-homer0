@@ -67,12 +67,6 @@ I want the linter to warn me if I'm writing big function/methods.
 
 I write almost everything using OOP, and some times I want to create a method to extract some logic and I don't want to be restricted by this rule.
 
-#### [`max-classes-per-file`](https://eslint.org/docs/rules/max-classes-per-file)
-
-> `['error', 1]` -> `off`
-
-I agree with this rule and this will probably be removed on the next breaking release, but for now, I don't intend to change code from projects that use this configuration(s).
-
 #### [`no-magic-numbers`](https://eslint.org/docs/rules/no-magic-numbers)
 
 > `off` -> `['error', { ignore: [0, 1, -1, 1000]}]`
@@ -208,7 +202,7 @@ Yes, the reason for having this rule enabled is valid, but I don't believe that'
 > }]
 > ```
 > ->
-> 
+>
 > ```
 > ['error', {
 >   allowAfterThis: true,
@@ -223,7 +217,7 @@ Since I don't use [TypeScript](https://www.typescriptlang.org), I follow the con
 
 > `['error', 'before', {...}]` -> `['error', 'after', {...}]`
 
-I know that having the operators at the beginning of the line may better for readability for some people, but in my case, I find it easier to read if they are at the end. Yes, I may be that I've been using it like this for years. 
+I know that having the operators at the beginning of the line may better for readability for some people, but in my case, I find it easier to read if they are at the end. Yes, I may be that I've been using it like this for years.
 
 #### [`prefer-object-spread`](https://eslint.org/docs/rules/prefer-object-spread)
 
