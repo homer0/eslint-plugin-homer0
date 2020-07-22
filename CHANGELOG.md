@@ -1,3 +1,11 @@
+## [5.0.1](https://github.com/homer0/eslint-plugin-homer0/compare/5.0.0...5.0.1) (2020-07-22)
+
+
+### Bug Fixes
+
+* update dependencies ([6611bcb](https://github.com/homer0/eslint-plugin-homer0/commit/6611bcb61ec3d4045501db79b41a5a17b0a8a770)), closes [#15](https://github.com/homer0/eslint-plugin-homer0/issues/15)
+* update dependencies ([48d664e](https://github.com/homer0/eslint-plugin-homer0/commit/48d664e9eda47106c371509ff064602d51fa5379))
+
 # [5.0.0](https://github.com/homer0/eslint-plugin-homer0/compare/4.0.0...5.0.0) (2020-07-11)
 
 
