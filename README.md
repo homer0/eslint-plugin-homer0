@@ -1,3 +1,5 @@
+> **IMPORTANT**: This project was moved to my [`packages` monorepo](https://github.com/homer0/packages) and is now being published as [`@homer0/eslint-plugin`](https://yarnpkg.com/package/@homer0/eslint-plugin).
+
 # eslint-plugin-homer0
 
 [![David](https://img.shields.io/david/homer0/eslint-plugin-homer0.svg?style=flat-square)](https://david-dm.org/homer0/eslint-plugin-homer0)
