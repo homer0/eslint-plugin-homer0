@@ -1,3 +1,10 @@
+## [5.0.3](https://github.com/homer0/eslint-plugin-homer0/compare/5.0.2...5.0.3) (2021-04-11)
+
+
+### Bug Fixes
+
+* add deprecation notice ([d80e843](https://github.com/homer0/eslint-plugin-homer0/commit/d80e8438d98c281c08ca9b2e70876e4ff9dcf4fd))
+
 ## [5.0.2](https://github.com/homer0/eslint-plugin-homer0/compare/5.0.1...5.0.2) (2020-08-10)
 
 
