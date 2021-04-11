@@ -22,9 +22,9 @@ jobs:
           HUSKY_SKIP_INSTALL: 1
         run: yarn --frozen-lockfile
       - run: yarn semantic-release
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Generate documentation
         run: yarn docs
       - name: Deploy documentation
